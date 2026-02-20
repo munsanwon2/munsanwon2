@@ -23,7 +23,7 @@ email: munsanwon2@korea.ac.kr
 ---
 
 1\. SQIsign with Fixed-Precision Integer Arithmetic
-   **Won Kim**, Jeonghwan Lee, Hyeonhak Kim, Changmin Lee - To appear at PKC 2026 ([preprint](https://eprint.iacr.org/2025/1649))
+*   **Won Kim**, Jeonghwan Lee, Hyeonhak Kim, Changmin Lee - To appear at PKC 2026 ([preprint](https://eprint.iacr.org/2025/1649))
 
 ## 🥇 Awards
 
