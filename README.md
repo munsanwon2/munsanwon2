@@ -29,9 +29,9 @@ email: munsanwon2@korea.ac.kr
 
 ---
 
-3\. 암호분석경진대회 (Cryptanalysis Contest), 장려상 (Participation Prize) - 2025
-2\. Academic Excellence Award - 2024 2nd Semester (B.S.)
-1\. 암호분석경진대회 (Cryptanalysis Contest), 우수상 (Excellence Prize) - 2024
+* 3\. 암호분석경진대회 (Cryptanalysis Contest), 장려상 (Participation Prize) - 2025
+* 2\. Academic Excellence Award - 2024 2nd Semester (B.S.)
+* 1\. 암호분석경진대회 (Cryptanalysis Contest), 우수상 (Excellence Prize) - 2024
 
 <!--
 **munsanwon2/munsanwon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
